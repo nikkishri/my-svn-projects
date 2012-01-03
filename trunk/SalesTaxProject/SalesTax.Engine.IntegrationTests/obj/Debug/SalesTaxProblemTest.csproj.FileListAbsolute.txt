@@ -1,0 +1,8 @@
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTaxProblemTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTaxProblemTest\bin\Debug\SalesTaxProblemText.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTaxProblemTest\bin\Debug\SalesTaxProblemText.pdb
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTaxProblemTest\bin\Debug\nunit.framework.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTaxProblemTest\bin\Debug\SalesTax.Engine.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTaxProblemTest\bin\Debug\SalesTax.Engine.pdb
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTaxProblemTest\obj\Debug\SalesTaxProblemText.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTaxProblemTest\obj\Debug\SalesTaxProblemText.pdb

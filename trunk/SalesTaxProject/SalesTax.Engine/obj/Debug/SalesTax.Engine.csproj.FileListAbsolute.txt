@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine\bin\Debug\SalesTax.Engine.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine\bin\Debug\SalesTax.Engine.pdb
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine\obj\Debug\SalesTax.Engine.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine\obj\Debug\SalesTax.Engine.pdb

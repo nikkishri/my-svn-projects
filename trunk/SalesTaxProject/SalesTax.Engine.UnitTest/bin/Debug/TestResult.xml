@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\bin\Debug\SalesTax.Engine.UnitTest.dll" total="8" failures="0" not-run="0" date="2011-09-28" time="00:00:12">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.4214" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\NUnit 2.4.8\bin" machine-name="USER-PC" user="user" user-domain="user-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\bin\Debug\SalesTax.Engine.UnitTest.dll" success="True" time="0.110" asserts="0">
+    <results>
+      <test-suite name="SalesTax" success="True" time="0.103" asserts="0">
+        <results>
+          <test-suite name="Engine" success="True" time="0.098" asserts="0">
+            <results>
+              <test-suite name="UnitTest" success="True" time="0.095" asserts="0">
+                <results>
+                  <test-suite name="HelperTest" success="True" time="0.030" asserts="0">
+                    <results>
+                      <test-case name="SalesTax.Engine.UnitTest.HelperTest.RoundOfftoNearest2DecimalPlacesTest" executed="True" success="True" time="0.021" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite name="ProductTest" success="True" time="0.013" asserts="0">
+                    <results>
+                      <test-case name="SalesTax.Engine.UnitTest.ProductTest.NullTaxTest" executed="True" success="True" time="0.003" asserts="1" />
+                      <test-case name="SalesTax.Engine.UnitTest.ProductTest.ProductObjectandMockTaxTest" executed="True" success="True" time="0.004" asserts="5" />
+                      <test-case name="SalesTax.Engine.UnitTest.ProductTest.SalesTaxForDifferentProductsTest" executed="True" success="True" time="0.001" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite name="TaxFactoryTest" success="True" time="0.013" asserts="0">
+                    <results>
+                      <test-case name="SalesTax.Engine.UnitTest.TaxFactoryTest.ProductNotTaxedandImportedTest" executed="True" success="True" time="0.003" asserts="1" />
+                      <test-case name="SalesTax.Engine.UnitTest.TaxFactoryTest.ProductNotTaxedandNotImportedTest" executed="True" success="True" time="0.001" asserts="1" />
+                      <test-case name="SalesTax.Engine.UnitTest.TaxFactoryTest.ProductTaxedandImportedTest" executed="True" success="True" time="0.001" asserts="1" />
+                      <test-case name="SalesTax.Engine.UnitTest.TaxFactoryTest.ProductTaxedandNotImportedTest" executed="True" success="True" time="0.001" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

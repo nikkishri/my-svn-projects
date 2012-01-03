@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1011]C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\bin\Debug\SalesTax.Engine.UnitTest.dll</TopNode>
+  <SelectedNode>[0-1012]SalesTax</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1011]C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\bin\Debug\SalesTax.Engine.UnitTest.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1012]SalesTax" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1013]SalesTax.Engine" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1014]SalesTax.Engine.UnitTest" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1009]SalesTax.Engine.UnitTest.HelperTest" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1010]SalesTax.Engine.UnitTest.HelperTest.RoundOfftoNearest2DecimalPlacesTest" />
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1005]SalesTax.Engine.UnitTest.ProductTest" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1008]SalesTax.Engine.UnitTest.ProductTest.NullTaxTest" />
+                        <Node UniqueName="[0-1007]SalesTax.Engine.UnitTest.ProductTest.ProductObjectandMockTaxTest" />
+                        <Node UniqueName="[0-1006]SalesTax.Engine.UnitTest.ProductTest.SalesTaxForDifferentProductsTest" />
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1000]SalesTax.Engine.UnitTest.TaxFactoryTest" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1003]SalesTax.Engine.UnitTest.TaxFactoryTest.ProductNotTaxedandImportedTest" />
+                        <Node UniqueName="[0-1004]SalesTax.Engine.UnitTest.TaxFactoryTest.ProductNotTaxedandNotImportedTest" />
+                        <Node UniqueName="[0-1001]SalesTax.Engine.UnitTest.TaxFactoryTest.ProductTaxedandImportedTest" />
+                        <Node UniqueName="[0-1002]SalesTax.Engine.UnitTest.TaxFactoryTest.ProductTaxedandNotImportedTest" />
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>

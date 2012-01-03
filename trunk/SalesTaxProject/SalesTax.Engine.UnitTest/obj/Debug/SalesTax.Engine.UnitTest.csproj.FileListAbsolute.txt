@@ -1,0 +1,8 @@
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\bin\Debug\SalesTax.Engine.UnitTest.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\bin\Debug\SalesTax.Engine.UnitTest.pdb
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\bin\Debug\SalesTax.Engine.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\bin\Debug\SalesTax.Engine.pdb
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\obj\Debug\SalesTax.Engine.UnitTest.dll
+C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.UnitTest\obj\Debug\SalesTax.Engine.UnitTest.pdb
