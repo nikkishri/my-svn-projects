@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.IntegrationTests\bin\Debug\SalesTax.Engine.IntegrationTests.dll" total="7" failures="0" not-run="0" date="2011-09-28" time="00:00:38">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.4214" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\NUnit 2.4.8\bin" machine-name="USER-PC" user="user" user-domain="user-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.IntegrationTests\bin\Debug\SalesTax.Engine.IntegrationTests.dll" success="True" time="0.179" asserts="0">
+    <results>
+      <test-suite name="SalesTax" success="True" time="0.173" asserts="0">
+        <results>
+          <test-suite name="Engine" success="True" time="0.169" asserts="0">
+            <results>
+              <test-suite name="IntegrationTests" success="True" time="0.165" asserts="0">
+                <results>
+                  <test-suite name="TaxIntegrationTest" success="True" time="0.148" asserts="0">
+                    <results>
+                      <test-case name="SalesTax.Engine.IntegrationTests.TaxIntegrationTest.GeneralCase" executed="True" success="True" time="0.107" asserts="4" />
+                      <test-case name="SalesTax.Engine.IntegrationTests.TaxIntegrationTest.ImportedProducts" executed="True" success="True" time="0.001" asserts="4" />
+                      <test-case name="SalesTax.Engine.IntegrationTests.TaxIntegrationTest.NonImportedProducts" executed="True" success="True" time="0.001" asserts="4" />
+                      <test-case name="SalesTax.Engine.IntegrationTests.TaxIntegrationTest.TaxableImportedProducts" executed="True" success="True" time="0.001" asserts="4" />
+                      <test-case name="SalesTax.Engine.IntegrationTests.TaxIntegrationTest.TaxableNonImportedProducts" executed="True" success="True" time="0.001" asserts="4" />
+                      <test-case name="SalesTax.Engine.IntegrationTests.TaxIntegrationTest.TaxExemptImportedProducts" executed="True" success="True" time="0.001" asserts="4" />
+                      <test-case name="SalesTax.Engine.IntegrationTests.TaxIntegrationTest.TaxExemptNonImportedProducts" executed="True" success="True" time="0.004" asserts="4" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

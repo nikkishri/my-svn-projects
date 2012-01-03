@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1008]C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.IntegrationTests\bin\Debug\SalesTax.Engine.IntegrationTests.dll</TopNode>
+  <SelectedNode>[0-1009]SalesTax</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1008]C:\Users\user\Downloads\SalesTaxProject\SalesTaxProject\SalesTax.Engine.IntegrationTests\bin\Debug\SalesTax.Engine.IntegrationTests.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1009]SalesTax" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1010]SalesTax.Engine" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1011]SalesTax.Engine.IntegrationTests" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1000]SalesTax.Engine.IntegrationTests.TaxIntegrationTest" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1003]SalesTax.Engine.IntegrationTests.TaxIntegrationTest.GeneralCase" />
+                        <Node UniqueName="[0-1002]SalesTax.Engine.IntegrationTests.TaxIntegrationTest.ImportedProducts" />
+                        <Node UniqueName="[0-1001]SalesTax.Engine.IntegrationTests.TaxIntegrationTest.NonImportedProducts" />
+                        <Node UniqueName="[0-1006]SalesTax.Engine.IntegrationTests.TaxIntegrationTest.TaxableImportedProducts" />
+                        <Node UniqueName="[0-1007]SalesTax.Engine.IntegrationTests.TaxIntegrationTest.TaxableNonImportedProducts" />
+                        <Node UniqueName="[0-1004]SalesTax.Engine.IntegrationTests.TaxIntegrationTest.TaxExemptImportedProducts" />
+                        <Node UniqueName="[0-1005]SalesTax.Engine.IntegrationTests.TaxIntegrationTest.TaxExemptNonImportedProducts" />
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>

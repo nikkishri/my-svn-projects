@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTax.Engine", "SalesTax.Engine.csproj", "{15A298C6-AA0F-4895-831F-0CE46A2F1357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTax.Engine.IntegrationTests", "..\SalesTax.Engine.IntegrationTests\SalesTax.Engine.IntegrationTests.csproj", "{C073B8DB-3F65-420E-B33C-6371AF24947B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTax.Engine.UnitTest", "..\SalesTax.Engine.UnitTest\SalesTax.Engine.UnitTest.csproj", "{D0AD9E84-90CF-454D-A9D1-6EAE22E24E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A298C6-AA0F-4895-831F-0CE46A2F1357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A298C6-AA0F-4895-831F-0CE46A2F1357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A298C6-AA0F-4895-831F-0CE46A2F1357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A298C6-AA0F-4895-831F-0CE46A2F1357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C073B8DB-3F65-420E-B33C-6371AF24947B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C073B8DB-3F65-420E-B33C-6371AF24947B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C073B8DB-3F65-420E-B33C-6371AF24947B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C073B8DB-3F65-420E-B33C-6371AF24947B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AD9E84-90CF-454D-A9D1-6EAE22E24E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AD9E84-90CF-454D-A9D1-6EAE22E24E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AD9E84-90CF-454D-A9D1-6EAE22E24E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AD9E84-90CF-454D-A9D1-6EAE22E24E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
